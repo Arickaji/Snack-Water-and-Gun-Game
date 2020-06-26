@@ -2,7 +2,6 @@
 This game using for fun.
 Requirements:
 1.python 3
-
 Author:
 Name:AricKaji
 Age = 17
